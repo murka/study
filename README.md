@@ -1,1 +1,4 @@
 
+## [Labels](https://github.com/murka/learning/labels)
+
+![Architecture](https://img.shields.io/badge/Architecture-F6F1ED.svg?style=for-the-badge&link=https://github.com/murka/learning/labels/Architecture) ![Backend](https://img.shields.io/badge/Backend-AEDB28.svg?style=for-the-badge&link=https://github.com/murka/learning/labels/Backend) ![Frontend](https://img.shields.io/badge/Frontend-776C22.svg?style=for-the-badge&link=https://github.com/murka/learning/labels/Frontend) ![Database](https://img.shields.io/badge/Database-3EB3D3.svg?style=for-the-badge&link=https://github.com/murka/learning/labels/Database) ![DevOps](https://img.shields.io/badge/DevOps-1D76DB.svg?style=for-the-badge&link=https://github.com/murka/learning/labels/DevOps) ![Patterns](https://img.shields.io/badge/Patterns-46A668.svg?style=for-the-badge&link=https://github.com/murka/learning/labels/Patterns)
